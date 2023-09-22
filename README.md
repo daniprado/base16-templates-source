@@ -1,6 +1,6 @@
 # Base16 Templates Source
-By adding your repository to this list your template will be available to all Base16 Builders.  
-All templates added to this repository list **must** be released under the MIT (or more permissive) licence.  
+By adding your repository to this list your template will be available to all Base16 Builders.
+All templates added to this repository list **must** be released under the MIT (or more permissive) licence.
 
 ## Template Repositories
 
@@ -31,6 +31,7 @@ To add your own template, submit a pull request and add your repository to the l
 * [Highlight](https://github.com/bezhermoso/base16-highlight) maintained by [bezhermoso](https://github.com/bezhermoso)
 * [Highlight.js](https://github.com/highlightjs/base16-highlightjs) maintained by [joshgoebel](https://github.com/joshgoebel)
 * [HTML Previews](https://github.com/chriskempson/base16-html-preview) maintained by [chriskempson](https://github.com/chriskempson)
+* [Hyprland](https://github.com/kirasok/base16-hyprland.git) maintained by [kirasok](https://github.com/kirasok)
 * [i3](https://github.com/khamer/base16-i3) maintained by [khamer](https://github.com/khamer)
 * [i3status](https://github.com/Eluminae/base16-i3status) maintained by [Eluminae](https://github.com/Eluminae)
 * [i3status-rust](https://github.com/mystfox/base16-i3status-rust) maintained by [mystfox](https://github.com/mystfox)
@@ -82,3 +83,4 @@ To add your own template, submit a pull request and add your repository to the l
 * [Xresources](https://github.com/base16-project/base16-xresources) maintained by [binaryplease](https://github.com/binaryplease)
 * [Xshell](https://github.com/h404bi/base16-xshell) maintained by [h404bi](https://github.com/h404bi)
 * [zathura](https://github.com/HaoZeke/base16-zathura) maintained by [HaoZeke](https://github.com/HaoZeke)
+* [Zellij](https://github.com/ralsina/base16-zellij) maintained by [ralsina](https://github.com/ralsina)
